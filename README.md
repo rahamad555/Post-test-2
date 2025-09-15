@@ -41,7 +41,49 @@ Penjelasan: Program otomatis akan menampilkan pulau yang di tanbahkan oleh user 
 
 <img width="448" height="243" alt="Screenshot 2025-09-15 120443" src="https://github.com/user-attachments/assets/ec792d11-7e25-4c36-980c-f6aabb8fa75e" />
 
-Penjelasan:Tampilan awal jika user memilih no 3(ubah nama pulau) user akan di minta untuk mengisi ID pulau yang ingin di ubah namanya,setelah ganti nama pulau yang awal nya Kalimantan Timur di ubah menjadi Jawa timur
+Penjelasan:Tampilan awal jika user memilih no 3(ubah nama pulau) user akan di minta untuk mengisi ID pulau yang ingin di ubah namanya,setelah ganti nama pulau yang awal nya Kalimantan Timur di ubah menjadi Jawa timur.
+
+
+<img width="378" height="241" alt="Screenshot 2025-09-15 120945" src="https://github.com/user-attachments/assets/0f157679-5850-4304-bf2c-01c0a657a07e" />
+
+penjelasan:Dapat di lihat yang berubah hanya nama pulau,lokasinya tetap tidak berubah,untuk mengubah lokasinya kita lanjut di menu no 4
+
+[4.]Jika pilih no 4(ubah lokasi pulau)
+
+
+<img width="431" height="240" alt="Screenshot 2025-09-15 121341" src="https://github.com/user-attachments/assets/acf4082c-e1c2-4a95-a233-bc153d619607" />
+
+Penjelasan:kalau di menu no 3 kita mengubah nama pulau,nah kalau di menu no 4 ini mengubah lokasinya,yang awalnya Indonesia Tengah menjadi Indonesia Barat.
+
+
+
+<img width="381" height="240" alt="Screenshot 2025-09-15 121619" src="https://github.com/user-attachments/assets/add79114-4005-43cf-ac26-6c93590dd84c" />
+
+
+Penjelasan:Nah bisa di lihat sekarng untuk nama pulau dan lokasinya sudah berubah
+
+
+[5.]Jika pilih menu 5 (Hapus pulau)
+
+
+<img width="425" height="231" alt="Screenshot 2025-09-15 121843" src="https://github.com/user-attachments/assets/e99bdfd3-a7c0-4a22-b6b1-9dada6eedbf6" />
+
+Penjelasan:User di arahkan untuk mengisi ID(no pulau) yang ingin di hapus.
+
+
+<img width="364" height="200" alt="Screenshot 2025-09-15 122121" src="https://github.com/user-attachments/assets/67bbf3d7-ea17-4198-85f5-cfc335f1d924" />
+
+Penjelasan:Nah otomatis pulau yang terdata sudah berhasil di hapus
+
+
+[6.]Jika pilih menu 6(keluar)
+
+
+<img width="685" height="318" alt="Screenshot 2025-09-15 122415" src="https://github.com/user-attachments/assets/ac7bf5d8-a4f0-4128-b226-19bd3233fb95" />
+
+Penjelasan:Program berhenti berjalan karena pengguna sudah memilih keluar.
+
+
 
 
 
