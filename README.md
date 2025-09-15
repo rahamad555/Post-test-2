@@ -19,3 +19,36 @@ Jika pengguna menginputkan pilihan angka yang tidak disediakan, maka akan muncul
 # Penjelasan Menu Utama
 
 <img width="425" height="186" alt="Screenshot 2025-09-15 114742" src="https://github.com/user-attachments/assets/e72b0392-e95e-41b9-98cc-80b5d6f5ac26" />
+
+[1.] Jika pilih menu 1 (Tambah Pulau)
+
+
+<img width="407" height="225" alt="Screenshot 2025-09-15 115831" src="https://github.com/user-attachments/assets/82ef75ce-ec7f-4f57-8018-7e65c2a7b68c" />
+
+
+Penjelasan: Pengguna di arahkan untuk mengisi nama pulau dan lokasi pulau yang di inginkan untuk menambahkan pulau baru.
+
+[2.] Jika pilih menu 2 (Lihat Daftar Pulau)
+
+
+<img width="369" height="234" alt="Screenshot 2025-09-15 120103" src="https://github.com/user-attachments/assets/b5002ba2-041e-4a1f-86a8-f5c6826c911c" />
+
+
+Penjelasan: Program otomatis akan menampilkan pulau yang di tanbahkan oleh user di awal tadi
+
+[3.]Jika pilih menu 3 (Ubah Nama Pulau)
+
+
+<img width="448" height="243" alt="Screenshot 2025-09-15 120443" src="https://github.com/user-attachments/assets/ec792d11-7e25-4c36-980c-f6aabb8fa75e" />
+
+Penjelasan:Tampilan awal jika user memilih no 3(ubah nama pulau) user akan di minta untuk mengisi ID pulau yang ingin di ubah namanya,setelah ganti nama pulau yang awal nya Kalimantan Timur di ubah menjadi Jawa timur
+
+
+
+
+
+
+
+
+
+
