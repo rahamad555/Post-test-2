@@ -81,9 +81,7 @@ Penjelasan:Nah otomatis pulau yang terdata sudah berhasil di hapus
 
 <img width="685" height="318" alt="Screenshot 2025-09-15 122415" src="https://github.com/user-attachments/assets/ac7bf5d8-a4f0-4128-b226-19bd3233fb95" />
 
-Penjelasan:Program berhenti berjalan karena pengguna sudah memilih keluar.
-
-
+Penjelasan:Program berhenti berjalan karena pengguna sudah memilih keluar..
 
 
 
